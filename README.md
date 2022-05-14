@@ -2,11 +2,11 @@
 
 ### Preview in Windows File Explorer
 
-![](README.assets/regall.png)
+![](readme.assets/regall.png)
 
 ### Right Click Menu Swift Copy Image
 
-![](README.assets/rightAll.png)
+![](readme.assets/rightAll.png)
 
 
 

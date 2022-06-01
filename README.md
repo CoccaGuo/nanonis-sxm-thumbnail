@@ -4,13 +4,13 @@
 
 **蓝色现在已升级为Nanonis Blue！**
 
-![](README.assets/regall.png)
+![](readme.assets/regall.png)
 
 ### Right Click Menu Swift Copy Image
 
 **下方信息栏已更新成白色！更有尺寸和文件序号信息！**
 
-![](README.assets/rightAll.png)
+![](readme.assets/rightAll.png)
 
 ##### 启动方法
 
@@ -49,13 +49,13 @@ Notice:
 
 *Current Version: Ver1.4*
 
-<img src="README.assets/compare.png" style="zoom: 80%;" />
+<img src="readme.assets/compare.png" style="zoom: 80%;" />
 
 **==信息井然排布，整理数据不烦恼！==**
 
 *Current Version: Ver1.4*
 
-<img src="README.assets/Info.png" style="zoom: 80%;" />
+<img src="readme.assets/Info.png" style="zoom: 80%;" />
 
 ---------------------------
 

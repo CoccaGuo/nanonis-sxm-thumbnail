@@ -55,7 +55,7 @@ Notice:
 
 *Current Version: Ver1.4*
 
-<img src="README.assets/Info-16540689002843.png" style="zoom: 80%;" />
+<img src="README.assets/Info.png" style="zoom: 80%;" />
 
 ---------------------------
 
